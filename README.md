@@ -6,7 +6,6 @@ End-to-end data analytics project using Python for ETL and Power BI for visualiz
 ## Tools Used
 - Python (Pandas, Faker)
 - Microsoft Power BI
-- SQL Server (optional)
 - DAX
 
 ## Features

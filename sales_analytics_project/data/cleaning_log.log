@@ -1,0 +1,8 @@
+2026-02-21 13:53:55,130 - INFO - Starting data cleaning process.
+2026-02-21 13:53:55,153 - INFO - Raw data loaded successfully.
+2026-02-21 13:53:55,166 - INFO - Customers cleaned: 1 rows removed.
+2026-02-21 13:53:55,168 - INFO - Products cleaned: 2 rows removed.
+2026-02-21 13:53:55,173 - INFO - Orders cleaned: 3 rows removed.
+2026-02-21 13:53:55,195 - INFO - Validation checks passed.
+2026-02-21 13:53:55,210 - INFO - Cleaned data saved: C:\Users\carte\SALES_ANALYTICS_PROJECT\sales_analytics_project\data\cleaned\sales_cleaned_for_powerbi.csv
+2026-02-21 13:53:55,211 - INFO - Data cleaning process completed successfully.

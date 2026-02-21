@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,state
+1,John,Smith,johnsmith@email.com,VA
+2,Alice,Johnson,alice@email.com,CA
+3,Bob,Williams,,TX
+4,Sarah,Brown,sarah@email.com,VA
+5,Tom,Jones,tom@email,FL

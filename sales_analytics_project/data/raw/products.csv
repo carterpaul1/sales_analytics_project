@@ -1,0 +1,6 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,899.99
+102,Phone,Electronics,699.99
+103,Desk,Furniture,0.0
+104,Chair,Furniture,129.99
+105,Monitor,Electronics,-50.0

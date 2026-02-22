@@ -14,3 +14,11 @@
 2026-02-22 14:46:03,429 - INFO - Validation checks passed.
 2026-02-22 14:46:03,440 - INFO - Cleaned data saved: C:\Users\carte\sales_analytics_project\sales_analytics_project\data\cleaned\sales_cleaned_for_powerbi.csv
 2026-02-22 14:46:03,442 - INFO - Data cleaning process completed successfully.
+2026-02-22 15:23:08,911 - INFO - Starting data cleaning process.
+2026-02-22 15:23:08,917 - INFO - Raw data loaded successfully.
+2026-02-22 15:23:08,920 - INFO - Customers cleaned: 23 rows removed.
+2026-02-22 15:23:08,920 - INFO - Products cleaned: 0 rows removed.
+2026-02-22 15:23:08,921 - INFO - Orders cleaned: 106 rows removed.
+2026-02-22 15:23:08,928 - INFO - Validation checks passed.
+2026-02-22 15:23:08,937 - INFO - Cleaned data saved: C:\Users\carte\sales_analytics_project\sales_analytics_project\data\cleaned\sales_cleaned_for_powerbi.csv
+2026-02-22 15:23:08,938 - INFO - Data cleaning process completed successfully.

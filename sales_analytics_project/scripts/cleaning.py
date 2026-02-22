@@ -9,7 +9,7 @@ from datetime import datetime
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))  # points to sales_analytics_project root
 RAW_PATH = os.path.join(BASE_DIR, "data", "raw")
 CLEANED_PATH = os.path.join(BASE_DIR, "data", "cleaned")
-LOG_PATH = os.path.join(BASE_DIR, "data", "cleaning_log.log")
+LOG_PATH = os.path.join(BASE_DIR, "data", "logs/cleaning_log.log")
 
 os.makedirs(CLEANED_PATH, exist_ok=True)
 
